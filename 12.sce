@@ -9,4 +9,4 @@ else
 elseif(preco > 20.00,00 & preço <= 30.00,00);
 else
     mprintf("15%% desconto");
-    mprintf"fudel"
+    mprintf"fudeu"
